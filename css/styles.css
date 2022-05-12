@@ -61,6 +61,7 @@ margin:1rem;}
 
 .form-container p{
     margin:2rem;
+    overflow: scroll;
 }
 
 .form label{
